@@ -1,0 +1,22 @@
+
+title: DC Taxi Public Notice
+email: notice@dctaxi.com
+description: DC Taxi Public Notice
+baseurl: "" # the subpath of your site, e.g. /blog
+url: https://www.dctaxicoopregistration.com   # with the https protocol # the base hostname & protocol for your site
+enforce_ssl: www.dctaxicoopregistration.com   # without any protocol
+
+facebook: #link your facebook
+twitter:
+g+:
+linkedin:
+github:
+segment:
+alexa:
+
+exclude: ["gulpfile.js",
+          "node_modules",
+          "package.json",
+          "Gemfile",
+          "Gemfile.lock",
+          "feed.xml"]
